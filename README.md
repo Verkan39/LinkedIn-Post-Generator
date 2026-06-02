@@ -14,7 +14,7 @@ Langchain, Groq, Python, Streamlit, Pandas
 
 #### User Interface 
 
-![Interface](/home/vedanshu/.config/Typora/typora-user-images/image-20260602111452297.png)
+![Interface](/home/vedanshu/Documents/LinkedIn Post Generator/assets/Ui.png)
 
 
 
