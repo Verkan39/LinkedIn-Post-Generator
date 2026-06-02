@@ -14,7 +14,7 @@ Langchain, Groq, Python, Streamlit, Pandas
 
 #### User Interface 
 
-![Interface](/home/vedanshu/Documents/LinkedIn Post Generator/assets/Ui.png)
+![Interface](assets/Ui.png)
 
 
 
